@@ -1,4 +1,17 @@
-{
-  "users": []
-}
+[
+    {
+        "user_id": 1,
+        "username": "alice",
+        "hashed_password": "3e2a19...",
+        "salt": "x5T9!",
+        "registration_date": "2025-10-09T12:00:00"
+    },
+    {
+        "user_id": 2,
+        "username": "bob",
+        "hashed_password": "4f3b20...",
+        "salt": "y6R0!",
+        "registration_date": "2025-10-10T12:00:00"
+    }
+]
 
